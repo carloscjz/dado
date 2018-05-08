@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dado</string>
+    <string name="dado_button">Lanzar dado</string>
+</resources>
